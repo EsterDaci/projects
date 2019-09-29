@@ -1,2 +1,2 @@
 # projects
-#Different simple projects written in Java
+Different simple projects written in Java
